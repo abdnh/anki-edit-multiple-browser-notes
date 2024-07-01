@@ -1,6 +1,8 @@
 # Edit Multiple Browser Notes
 
-TODO
+This Anki add-on allows you to open a separate editor window for each selected note in the browser using a hotkey.
+
+The default hotkey is `Ctrl+Shift+Z`. It can be changed from the config.
 
 ## Changelog
 

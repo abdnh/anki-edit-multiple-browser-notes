@@ -1,0 +1,2 @@
+-   `report_errors`: Report add-on errors automatically.
+-   `shortcut`: Browser shortcut to open the Edit screen for all selected notes.

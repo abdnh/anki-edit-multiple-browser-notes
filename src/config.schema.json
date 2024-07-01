@@ -1,0 +1,11 @@
+{
+    "properties": {
+        "report_errors": {
+            "type": "boolean"
+        },
+        "shortcut": {
+            "type": "string"
+        }
+    },
+    "type": "object"
+}
